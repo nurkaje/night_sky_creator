@@ -10,6 +10,10 @@ matplotlib==3.10.9
 narwhals==2.18.0
 numpy==2.4.4
 packaging==26.2
+matplotlib==3.10.8
+narwhals==2.20.0
+numpy==2.4.3
+packaging==26.0
 pandas==3.0.1
 pillow==12.2.0
 plotly==6.6.0
