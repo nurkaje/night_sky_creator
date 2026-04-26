@@ -8,7 +8,7 @@ jplephem==2.24
 kiwisolver==1.5.0
 matplotlib==3.10.9
 narwhals==2.18.0
-numpy==2.4.3
+numpy==2.4.4
 packaging==26.0
 pandas==3.0.1
 pillow==12.2.0
