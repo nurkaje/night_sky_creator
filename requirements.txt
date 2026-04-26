@@ -16,7 +16,7 @@ numpy==2.4.3
 packaging==26.0
 pandas==3.0.1
 pillow==12.2.0
-plotly==6.6.0
+plotly==6.7.0
 pyerfa==2.0.1.5
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
