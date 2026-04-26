@@ -25,4 +25,4 @@ seaborn==0.13.2
 sgp4==2.25
 six==1.17.0
 skyfield==1.54
-tzdata==2025.3
+tzdata==2026.2
