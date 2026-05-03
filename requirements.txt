@@ -1,5 +1,5 @@
 astropy==7.2.0
-astropy-iers-data==0.2026.4.20.0.58.15
+astropy-iers-data==0.2026.4.27.1.3.2
 certifi==2026.4.22
 contourpy==1.3.3
 cycler==0.12.1
